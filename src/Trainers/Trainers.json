@@ -1,0 +1,8148 @@
+{
+  "leaders": [
+    {
+      "id": "lbrock1redblueyellow",
+      "name": "Brock",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Pewter City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Geodude",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbrock2goldsilvercrystal",
+      "name": "Brock",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Pewter City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Graveler",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Omastar",
+          "type1": "Rock",
+          "type2": "Water"
+        },
+        {
+          "name": "Rhyhorn",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Kabutops",
+          "type1": "Rock",
+          "type2": "Water"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmisty1redblueyellow",
+      "name": "Misty",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Cerulean City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Staryu",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Starmie",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmisty2goldsilvercrystal",
+      "name": "Misty",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Cerulean City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Golduck",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Quagsire",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Lapras",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Starmie",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lltsurge1redblueyellow",
+      "name": "Lt. Surge",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Vermillion City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Voltorb",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Pikachu",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lltsurge2goldsilvercrystal",
+      "name": "Lt. Surge",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Vermillion City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Electrode",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Electrode",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Electabuzz",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lerika1redblue",
+      "name": "Erika",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Celadon City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Victreebell",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Tangela",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Vileplume",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lerika1yellow",
+      "name": "Erika",
+      "range": "leader",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Celadon City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Weepinbell",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Tangela",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Gloom",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lerika2goldsilvercrystal",
+      "name": "Erika",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Celadon City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Tangela",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Jumpluff",
+          "type1": "Grass",
+          "type2": "Flying"
+        },
+        {
+          "name": "Victreebell",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Bellossom",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkoga1redblue",
+      "name": "Koga",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Fuchsia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Koffing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Koffing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Muk",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Weezing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkoga1yellow",
+      "name": "Koga",
+      "range": "leader",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Fuchsia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Venonat",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Venonat",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Venonat",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Venomoth",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ljanine2goldsilvercrystal",
+      "name": "Janine",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Fuchsia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Crobat",
+          "type1": "Poison",
+          "type2": "Flying"
+        },
+        {
+          "name": "Weezing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Weezing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Ariados",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Venomoth",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lsabrina1redblue",
+      "name": "Sabrina",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Saffron City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Kadabra",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Venomoth",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Mr. Mime",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lsabrina1yellow",
+      "name": "Sabrina",
+      "range": "leader",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Saffron City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Abra",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Kadabra",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lsabrina2goldsilvercrystal",
+      "name": "Sabrina",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Saffron City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Espeon",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Mr. Mime",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lblaine1redblue",
+      "name": "Blaine",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Seafoam Islands",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Growlithe",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Ponyta",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Rapidash",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lblaine1yellow",
+      "name": "Blaine",
+      "range": "leader",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Seafoam Islands",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Ninetales",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Rapidash",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lblaine2goldsilvercrystal",
+      "name": "Blaine",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Seafoam Islands",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Magcargo",
+          "type1": "Fire",
+          "type2": "Rock"
+        },
+        {
+          "name": "Magmar",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Rapidash",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgiovanni1redblue",
+      "name": "Giovanni",
+      "range": "leader",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Viridian City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Rhyhorn",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Dugtrio",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Nidoqueen",
+          "type1": "Poison",
+          "type2": "Ground"
+        },
+        {
+          "name": "Nidoking",
+          "type1": "Poison",
+          "type2": "Ground"
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgiovanni1yellow",
+      "name": "Giovanni",
+      "range": "leader",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Viridian City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Persian",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Dugtrio",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Nidoqueen",
+          "type1": "Poison",
+          "type2": "Ground"
+        },
+        {
+          "name": "Nidoking",
+          "type1": "Poison",
+          "type2": "Ground"
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lblue2goldsilvercrystal",
+      "name": "Blue",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Kanto",
+      "location": "Viridian City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Pidgeot",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lfalkner2goldsilvercrystal",
+      "name": "Falkner",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Violet City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Pidgey",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Pidgeotto",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbugsy2goldsilvercrystal",
+      "name": "Bugsy",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Azalea Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Metapod",
+          "type1": "Bug",
+          "type2": ""
+        },
+        {
+          "name": "Kakuna",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Scyther",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwhitney2goldsilvercrystal",
+      "name": "Whitney",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Goldenrod City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Clefairy",
+          "type1": "Fairy",
+          "type2": ""
+        },
+        {
+          "name": "Miltank",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmorty2goldsilvercrystal",
+      "name": "Morty",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Ecruteak City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gastly",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Haunter",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Haunter",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lchuck2goldsilvercrystal",
+      "name": "Chuck",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Cianwood City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Primeape",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Poliwrath",
+          "type1": "Water",
+          "type2": "Fighting"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ljasmine2goldsilvercrystal",
+      "name": "Jasmine",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Olivine City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Magnemite",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Magnemite",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Steelix",
+          "type1": "Steel",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lpryce2goldsilvercrystal",
+      "name": "Pryce",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Mahogany Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Seel",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Dewgong",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Piloswine",
+          "type1": "Ice",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lclair2goldsilvercrystal",
+      "name": "Clair",
+      "range": "leader",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Blackthorn City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dragonair",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Dragonair",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Dragonair",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Kingdra",
+          "type1": "Water",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lroxanne3rubysapphire",
+      "name": "Roxanne",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Rustboro City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Geodude",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Geodude",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Nosepass",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lroxanne3emerald",
+      "name": "Roxanne",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Rustboro City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Geodude",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Nosepass",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbrawly3rubysapphire",
+      "name": "Brawly",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Dewford Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Machop",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Makuhita",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbrawly3emerald",
+      "name": "Brawly",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Dewford Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Machop",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Meditite",
+          "type1": "Fighting",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Makuhita",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwattson3rubysapphire",
+      "name": "Wattson",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Mawville City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Voltorb",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Magnemite",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwattson3emerald",
+      "name": "Wattson",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Mawville City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Electrike",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Voltorb",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Manectric",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lflannery3rubysapphire",
+      "name": "Flannery",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Lavaridge Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Slugma",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Slugma",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Torkoal",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lflannery3emerald",
+      "name": "Flannery",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Lavaridge Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Numel",
+          "type1": "Fire",
+          "type2": "Ground"
+        },
+        {
+          "name": "Slugma",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Camerupt",
+          "type1": "Fire",
+          "type2": "Ground"
+        },
+        {
+          "name": "Torkoal",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lnorman3rubysapphire",
+      "name": "Norman",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Petalburg City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Slaking",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Vigoroth",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Slaking",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lnorman3emerald",
+      "name": "Norman",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Petalburg City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Spinda",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Slaking",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Vigoroth",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Linoone",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwinona3rubysapphire",
+      "name": "Winona",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Fortree City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Swellow",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Pelipper",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Skarmory",
+          "type1": "Steel",
+          "type2": "Flying"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwinona3emerald",
+      "name": "Winona",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Fortree City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Swablu",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Pelipper",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Skarmory",
+          "type1": "Steel",
+          "type2": "Flying"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ltate&liza3rubysapphire",
+      "name": "Tate & Liza",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Mossdeep City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Lunatone",
+          "type1": "Rock",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Solrock",
+          "type1": "Rock",
+          "type2": "Psychic"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ltate&liza3emerald",
+      "name": "Tate & Liza",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Mossdeep City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Claydol",
+          "type1": "Rock",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Xatu",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Lunatone",
+          "type1": "Rock",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Solrock",
+          "type1": "Rock",
+          "type2": "Psychic"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwallace3rubysapphire",
+      "name": "Wallace",
+      "range": "leader",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Sootopolis City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Luvdisc",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Sealeo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Seaking",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Milotic",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ljuan3emerald",
+      "name": "Juan",
+      "range": "leader",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Sootopolis City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Luvdisc",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Sealeo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Crawdaunt",
+          "type1": "Water",
+          "type2": "Dark"
+        },
+        {
+          "name": "Kingdra",
+          "type1": "Water",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lroark4diamondpearlplatinum",
+      "name": "Roark",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl-Platinum",
+      "region": "Sinnoh",
+      "location": "Oreburgh City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Geodude",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Cranidos",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgardenia4diamondpearl",
+      "name": "Gardenia",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Eterna City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Cherubi",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Turtwig",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Roserade",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgardenia4platinum",
+      "name": "Gardenia",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Eterna City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Turtwig",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Cherrim",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Roserade",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmaylene4diamondpearlplatinum",
+      "name": "Maylene",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl-Platinum",
+      "region": "Sinnoh",
+      "location": "Veilstone City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Meditite",
+          "type1": "Fighting",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Machoke",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Lucario",
+          "type1": "Fighting",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcrasherwake4diamondpearlplatinum",
+      "name": "Crasher Wake",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl-Platinum",
+      "region": "Sinnoh",
+      "location": "Pastoria City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Quagsire",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Floatzel",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lfantina4diamondpearl",
+      "name": "Fantina",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Hearthome City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Mismagius",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lfantina4platinum",
+      "name": "Fantina",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Hearthome City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Haunter",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Mismagius",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbyron4diamondpearl",
+      "name": "Byron",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Canalave City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Bronzor",
+          "type1": "Steel",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Steelix",
+          "type1": "Steel",
+          "type2": "Ground"
+        },
+        {
+          "name": "Bastiodon",
+          "type1": "Rock",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbyron4platinum",
+      "name": "Byron",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Canalave City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Steelix",
+          "type1": "Steel",
+          "type2": "Ground"
+        },
+        {
+          "name": "Bastiodon",
+          "type1": "Rock",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcandice4diamondpearl",
+      "name": "Candice",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Snowpoint City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Snover",
+          "type1": "Grass",
+          "type2": "Ice"
+        },
+        {
+          "name": "Sneasel",
+          "type1": "Dark",
+          "type2": "Ice"
+        },
+        {
+          "name": "Medicham",
+          "type1": "Fighting",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Abomasnow",
+          "type1": "Grass",
+          "type2": "Ice"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcandice4platinum",
+      "name": "Candice",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Snowpoint City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Sneasel",
+          "type1": "Dark",
+          "type2": "Ice"
+        },
+        {
+          "name": "Piloswine",
+          "type1": "Ice",
+          "type2": "Ground"
+        },
+        {
+          "name": "Abomasnow",
+          "type1": "Grass",
+          "type2": "Ice"
+        },
+        {
+          "name": "Froslass",
+          "type1": "Ice",
+          "type2": "Ghost"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lvolkner4diamondpearl",
+      "name": "Volkner",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Sunyshore City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Ambipom",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Octillery",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Luxray",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lvolkner4platinum",
+      "name": "Volkner",
+      "range": "leader",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Sunyshore City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Jolteon",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Luxray",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Electivire",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcilan5blackwhite",
+      "name": "Cilan",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Striaton City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Lillipup",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Pansage",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lchili5blackwhite",
+      "name": "Chili",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Striaton City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Lillipup",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Pansear",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcress5blackwhite",
+      "name": "Cress",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Striaton City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Lillipup",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Panpour",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "llenora5blackwhite",
+      "name": "Lenora",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Nacrene City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Herdier",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Watchog",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lburgh5blackwhite",
+      "name": "Burgh",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Castelia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dwebble",
+          "type1": "Bug",
+          "type2": "Rock"
+        },
+        {
+          "name": "Whirlipede",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Leavanny",
+          "type1": "Bug",
+          "type2": "Grass"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lelesa5blackwhite",
+      "name": "Elesa",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Nimbasa City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Emolga",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Emolga",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Zebstrika",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lclay5blackwhite",
+      "name": "Clay",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Drifveil City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Krokorok",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Palpitoad",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Excadrill",
+          "type1": "Ground",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lskyla5blackwhite",
+      "name": "Skyla",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Mistralton City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Swoobat",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Swanna",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Unfezant",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbrycen5blackwhite",
+      "name": "Brycen",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Icirrus City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Vanillish",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Cryogonal",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Beartic",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ldrayden5black",
+      "name": "Drayden",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black",
+      "region": "Unova",
+      "location": "Opelucid City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Fraxure",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "liris5white",
+      "name": "Iris",
+      "range": "leader",
+      "generation": "V",
+      "game": "White",
+      "region": "Unova",
+      "location": "Opelucid City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Fraxure",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lcheren5black2white2",
+      "name": "Cheren",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Aspertia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Patrat",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Lillipup",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lroxie5black2white2",
+      "name": "Roxie",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Virbank City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Koffing",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Whirlipede",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lburgh5black2white2",
+      "name": "Burgh",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Castelia City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Swadloon",
+          "type1": "Bug",
+          "type2": "Grass"
+        },
+        {
+          "name": "Dwebble",
+          "type1": "Bug",
+          "type2": "Rock"
+        },
+        {
+          "name": "Leavanny",
+          "type1": "Bug",
+          "type2": "Grass"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lelesa5black2white2",
+      "name": "Elesa",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Nimbasa City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Emolga",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Flaaffy",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Zebstrika",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lclay5black2white2",
+      "name": "Clay",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Drifveil City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Krokorok",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Sandslash",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Excadrill",
+          "type1": "Ground",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lskyla5black2white2",
+      "name": "Skyla",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Mistralton City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Swoobat",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Swanna",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Skarmory",
+          "type1": "Steel",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ldrayden5black2white2",
+      "name": "Drayden",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Opelucid City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmarlon5black2white2",
+      "name": "Marlon",
+      "range": "leader",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Humilau City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Carracosta",
+          "type1": "Water",
+          "type2": "Rock"
+        },
+        {
+          "name": "Wailord",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Jellicent",
+          "type1": "Water",
+          "type2": "Ghost"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lviola6xy",
+      "name": "Viola",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Santalune City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Surskit",
+          "type1": "Bug",
+          "type2": "Water"
+        },
+        {
+          "name": "Vivillon",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgrant6xy",
+      "name": "Grant",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Cyllage City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Amaura",
+          "type1": "Rock",
+          "type2": "Ice"
+        },
+        {
+          "name": "Tyrunt",
+          "type1": "Rock",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkorrina6xy",
+      "name": "Korrina",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Shalour City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mienfoo",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Machoke",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Hawlucha",
+          "type1": "Fighting",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lramos6xy",
+      "name": "Ramos",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Coumarine City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Jumpluff",
+          "type1": "Grass",
+          "type2": "Flying"
+        },
+        {
+          "name": "Weepinbell",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Gogoat",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lclemont6xy",
+      "name": "Clemont",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Luminose City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Emolga",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Heliolisk",
+          "type1": "Electric",
+          "type2": "Normal"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lvalerie6xy",
+      "name": "Valerie",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Laverre City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mawile",
+          "type1": "Steel",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Sylveon",
+          "type1": "Fairy",
+          "type2": ""
+        },
+        {
+          "name": "Mr. Mime",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lolimpia6xy",
+      "name": "Olympia",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Anistar City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Sigilyph",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Slowking",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Meowstic",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lwulfric6xy",
+      "name": "Wulfric",
+      "range": "leader",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Snowbelle City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Abomasnow",
+          "type1": "Grass",
+          "type2": "Ice"
+        },
+        {
+          "name": "Cryogonal",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Avalugg",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lhala7sunmoon",
+      "name": "Hala",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "location": "Iki Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mankey",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Makuhita",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Crabrawler",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lhala7ultrasunultramoon",
+      "name": "Hala",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "location": "Iki Town",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Machop",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Makuhita",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Crabrawler",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lolivia7sunmoon",
+      "name": "Olivia",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "location": "Konikoni City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Nosepass",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Boldore",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lolivia7ultrasunultramoon",
+      "name": "Olivia",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "location": "Konikoni City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Anorith",
+          "type1": "Rock",
+          "type2": "Bug"
+        },
+        {
+          "name": "Lileep",
+          "type1": "Rock",
+          "type2": "Grass"
+        },
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lnanu7sunmoon",
+      "name": "Nanu",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "location": "Malie City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Sableye",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Krokorok",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Persian",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lnanu7ultrasunultramoon",
+      "name": "Nanu",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "location": "Malie City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Sableye",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Krokorok",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Persian",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lhapu7sunmoon",
+      "name": "Hapu",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "location": "Vast Poni Canyon",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dugtrio",
+          "type1": "Ground",
+          "type2": "Steel"
+        },
+        {
+          "name": "Gastrodon",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Mudsdale",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lhapu7ultrasunultramoon",
+      "name": "Hapu",
+      "range": "kahuna",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "location": "Vast Poni Canyon",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Golurk",
+          "type1": "Ground",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Gastrodon",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Mudsdale",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmilo8swordshield",
+      "name": "Milo",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Turffield",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gossifleur",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Eldegoss",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lnessa8swordshield",
+      "name": "Nessa",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Hulbury",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Goldeen",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Drednaw",
+          "type1": "Water",
+          "type2": "Rock"
+        },
+        {
+          "name": "Arrokuda",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkabu8swordshield",
+      "name": "Kabu",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Motostoke",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Ninetales",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Centiskorch",
+          "type1": "Fire",
+          "type2": "Bug"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbea8sword",
+      "name": "Bea",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword",
+      "region": "Galar",
+      "location": "Stow-on-Side",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hitmontop",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Pangoro",
+          "type1": "Fighting",
+          "type2": "Dark"
+        },
+        {
+          "name": "Sirfetch'd",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Machamp",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lallister8shield",
+      "name": "Allister",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Shield",
+      "region": "Galar",
+      "location": "Stow-on-Side",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Yamask",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Mimikyu",
+          "type1": "Ghost",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Cursola",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lopal8swordshield",
+      "name": "Opal",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Ballonlea",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Weezing",
+          "type1": "Poison",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Mawile",
+          "type1": "Steel",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Togekiss",
+          "type1": "Fairy",
+          "type2": "Flying"
+        },
+        {
+          "name": "Alcremie",
+          "type1": "Fairy",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgordie8sword",
+      "name": "Gordie",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword",
+      "region": "Galar",
+      "location": "Circhester",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Barbaracle",
+          "type1": "Rock",
+          "type2": "Water"
+        },
+        {
+          "name": "Shuckle",
+          "type1": "Bug",
+          "type2": "Rock"
+        },
+        {
+          "name": "Stonjourner",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Coalossal",
+          "type1": "Rock",
+          "type2": "Fire"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lmelony8shield",
+      "name": "Melony",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Shield",
+      "region": "Galar",
+      "location": "Circhester",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Frostmoth",
+          "type1": "Ice",
+          "type2": "Bug"
+        },
+        {
+          "name": "Darmanitan",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Eiscue",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Lapras",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lpiers8swordshield",
+      "name": "Piers",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Spikemuth",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Scrafty",
+          "type1": "Dark",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Malamar",
+          "type1": "Dark",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Skuntank",
+          "type1": "Poison",
+          "type2": "Dark"
+        },
+        {
+          "name": "Obstagoon",
+          "type1": "Dark",
+          "type2": "Normal"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lraihan8swordshield",
+      "name": "Raihan",
+      "range": "leader",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Hammerlocke",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gigalith",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Sandaconda",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Duraludon",
+          "type1": "Steel",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkaty9scarletpurple",
+      "name": "Katy",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Cortondo",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Nymble",
+          "type1": "Bug",
+          "type2": ""
+        },
+        {
+          "name": "Tarountula",
+          "type1": "Bug",
+          "type2": ""
+        },
+        {
+          "name": "Teddiursa",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lbrassius9scarletpurple",
+      "name": "Brassius",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Artazon",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Petilil",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Smoliv",
+          "type1": "Grass",
+          "type2": "Normal"
+        },
+        {
+          "name": "Sodowoodo",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "liono9scarletpurple",
+      "name": "Iono",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Levincia",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Wattrel",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Bellibolt",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Luxio",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Mismagius",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lkofu9scarletpurple",
+      "name": "Kofu",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Cascarrafa",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Veluza",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Wugtrio",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Crabominable",
+          "type1": "Fighting",
+          "type2": "Ice"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "llarry9scarletpurple",
+      "name": "Larry",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Medali",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Komala",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Dudunsparce",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Staraptor",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lryme9scarletpurple",
+      "name": "Ryme",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Montenevera",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Mimikyu",
+          "type1": "Ghost",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Houndstone",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Toxtricity",
+          "type1": "Electric",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ltulip9scarletpurple",
+      "name": "Tulip",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Alfornada",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Farigiraf",
+          "type1": "Normal",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Gardevoir",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Espathra",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Florges",
+          "type1": "Fairy",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "lgrusha9scarletpurple",
+      "name": "Grusha",
+      "range": "leader",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Glaseado",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Frostmoth",
+          "type1": "Ice",
+          "type2": "Bug"
+        },
+        {
+          "name": "Beartic",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Cetitan",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    }
+  ],
+  "elite_four": [
+    {
+      "id": "elorelei1redblueyellow",
+      "name": "Lorelei",
+      "range": "elite-four",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dewgong",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Cloyster",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Slowbro",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Jynx",
+          "type1": "Ice",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Lapras",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebruno1redblueyellow",
+      "name": "Bruno",
+      "range": "elite-four",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Hitmonchan",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Hitmonlee",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Machamp",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eagatha1redblueyellow",
+      "name": "Agatha",
+      "range": "elite-four",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Golbat",
+          "type1": "Poison",
+          "type2": "Flying"
+        },
+        {
+          "name": "Haunter",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Arbok",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "elance1redblueyellow",
+      "name": "Lance",
+      "range": "elite-four",
+      "generation": "I",
+      "game": "Red-Blue-Yellow",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dragonair",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Dragonair",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Aerodactyl",
+          "type1": "Rock",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dragonite",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ewill2goldsilvercrystal",
+      "name": "Will",
+      "range": "elite-four",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Victory Road (Johto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Xatu",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Slowbro",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Jynx",
+          "type1": "Ice",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Xatu",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ekoga2goldsilvercrystal",
+      "name": "Koga",
+      "range": "elite-four",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Victory Road (Johto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Ariados",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Venomoth",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Muk",
+          "type1": "Poison",
+          "type2": ""
+        },
+        {
+          "name": "Forretress",
+          "type1": "Bug",
+          "type2": "Steel"
+        },
+        {
+          "name": "Crobat",
+          "type1": "Poison",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebruno2goldsilvercrystal",
+      "name": "Bruno",
+      "range": "elite-four",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Victory Road (Johto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hitmontop",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Hitmonchan",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Hitmonlee",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Onix",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Machamp",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ekaren2goldsilvercrystal",
+      "name": "Karen",
+      "range": "elite-four",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Victory Road (Johto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Umbreon",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "Vileplume",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "Murkrow",
+          "type1": "Dark",
+          "type2": "Flying"
+        },
+        {
+          "name": "Houndoom",
+          "type1": "Dark",
+          "type2": "Fire"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "esidney3rubysapphire",
+      "name": "Sidney",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mightyena",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "Shiftry",
+          "type1": "Grass",
+          "type2": "Dark"
+        },
+        {
+          "name": "Cacturne",
+          "type1": "Grass",
+          "type2": "Dark"
+        },
+        {
+          "name": "Sharpedo",
+          "type1": "Water",
+          "type2": "Dark"
+        },
+        {
+          "name": "Absol",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "esidney3emerald",
+      "name": "Sidney",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mightyena",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "Shiftry",
+          "type1": "Grass",
+          "type2": "Dark"
+        },
+        {
+          "name": "Cacturne",
+          "type1": "Grass",
+          "type2": "Dark"
+        },
+        {
+          "name": "Crawdaunt",
+          "type1": "Water",
+          "type2": "Dark"
+        },
+        {
+          "name": "Absol",
+          "type1": "Dark",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ephoebe3rubysapphire",
+      "name": "Phoebe",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dusclops",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Sableye",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Dusclops",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ephoebe3emerald",
+      "name": "Phoebe",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dusclops",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Sableye",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Dusclops",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eglacia3rubysapphire",
+      "name": "Glacia",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Saeleo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Saeleo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Glalie",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Glalie",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Walrein",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eglacia3emerald",
+      "name": "Glacia",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Saeleo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Glalie",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Saeleo",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "Glalie",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Walrein",
+          "type1": "Ice",
+          "type2": "Water"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "edrake3rubysapphire",
+      "name": "Drake",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Shelgon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Salamence",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "edrake3emerald",
+      "name": "Drake",
+      "range": "elite-four",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Shelgon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Salamence",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Kingdra",
+          "type1": "Water",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eaaron4diamondpearl",
+      "name": "Aaron",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dustox",
+          "type1": "Bug",
+          "type2": "Poison"
+        },
+        {
+          "name": "Beautify",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "Vespiquen",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "Heracoss",
+          "type1": "Bug",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Drapion",
+          "type1": "Poison",
+          "type2": "Dark"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eaaron4platinum",
+      "name": "Aaron",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Yanmega",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "Scizor",
+          "type1": "Bug",
+          "type2": "Steel"
+        },
+        {
+          "name": "Heracoss",
+          "type1": "Bug",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Vespiquen",
+          "type1": "Bug",
+          "type2": "Flying"
+        },
+        {
+          "name": "Drapion",
+          "type1": "Poison",
+          "type2": "Dark"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebertha4diamondpearl",
+      "name": "Bertha",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Quagsire",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Sudowoodo",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Golem",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Hippowdon",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebertha4platinum",
+      "name": "Bertha",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Gliscor",
+          "type1": "Ground",
+          "type2": "Flying"
+        },
+        {
+          "name": "Hippowdon",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Golem",
+          "type1": "Rock",
+          "type2": "Ground"
+        },
+        {
+          "name": "Rhyperior",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eflint4diamondpearl",
+      "name": "Flint",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Rapidash",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Steelix",
+          "type1": "Steel",
+          "type2": "Ground"
+        },
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Lopunny",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Infernape",
+          "type1": "Fire",
+          "type2": "Fighting"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eflint4platinum",
+      "name": "Flint",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Houndoom",
+          "type1": "Dark",
+          "type2": "Fire"
+        },
+        {
+          "name": "Flareon",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Rapidash",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Infernape",
+          "type1": "Fire",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Magmortar",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "elucian4diamondpearl",
+      "name": "Lucian",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mr. Mime",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Girafarig",
+          "type1": "Normal",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Medicham",
+          "type1": "Fighting",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Bronzong",
+          "type1": "Steel",
+          "type2": "Psychic"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "elucian4platinum",
+      "name": "Lucian",
+      "range": "elite-four",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mr. Mime",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Espeon",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Bronzong",
+          "type1": "Steel",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Gallade",
+          "type1": "Psychic",
+          "type2": "Fighting"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eshauntal5blackwhite",
+      "name": "Shauntal",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Cofagrigus",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Jellicent",
+          "type1": "Water",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Golurk",
+          "type1": "Ground",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Chandelure",
+          "type1": "Fire",
+          "type2": "Ghost"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "egrimsley5blackwhite",
+      "name": "Grimsley",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Scrafty",
+          "type1": "Dark",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Krookodile",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Liepard",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Bisharp",
+          "type1": "Dark",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "emarshal5blackwhite",
+      "name": "Marshal",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Throh",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Sawk",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Conkeldurr",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Mienshao",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ecaitlin5black2white2",
+      "name": "Caitlin",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Reuniclus",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Musharna",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Sigilyph",
+          "type1": "Psychic",
+          "type2": "Flying"
+        },
+        {
+          "name": "Gothitelle",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eshauntal5black2white2",
+      "name": "Shauntal",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Cofagrigus",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Golurk",
+          "type1": "Ground",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Chandelure",
+          "type1": "Fire",
+          "type2": "Ghost"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "egrimsley5black2white2",
+      "name": "Grimsley",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Liepard",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Scrafty",
+          "type1": "Dark",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Krookodile",
+          "type1": "Ground",
+          "type2": "Dark"
+        },
+        {
+          "name": "Bisharp",
+          "type1": "Dark",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "emarshal5black2white2",
+      "name": "Marshal",
+      "range": "elite-four",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Throh",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Sawk",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Mienshao",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Conkeldurr",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ewikstrom6xy",
+      "name": "Wikstrom",
+      "range": "elite-four",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Victory Road (Kalos)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Klefki",
+          "type1": "Steel",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Probopass",
+          "type1": "Rock",
+          "type2": "Steel"
+        },
+        {
+          "name": "Aegislash",
+          "type1": "Steel",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Scizor",
+          "type1": "Bug",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "emalva6xy",
+      "name": "Malva",
+      "range": "elite-four",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Victory Road (Kalos)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Pyroar",
+          "type1": "Fire",
+          "type2": "Normal"
+        },
+        {
+          "name": "Talonflame",
+          "type1": "Fire",
+          "type2": "Flying"
+        },
+        {
+          "name": "Torkoal",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Chandelure",
+          "type1": "Ghost",
+          "type2": "Fire"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "edrasna6xy",
+      "name": "Drasna",
+      "range": "elite-four",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Victory Road (Kalos)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dragalge",
+          "type1": "Poison",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Noivern",
+          "type1": "Flying",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "esiebold6xy",
+      "name": "Siebold",
+      "range": "elite-four",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Victory Road (Kalos)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Crawitzer",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Starmie",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Barbaracle",
+          "type1": "Rock",
+          "type2": "Water"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ehala7sunmoon",
+      "name": "Hala",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hariyama",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Primeape",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Poliwrath",
+          "type1": "Fighting",
+          "type2": "Water"
+        },
+        {
+          "name": "Crabominable",
+          "type1": "Fighting",
+          "type2": "Ice"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eolivia7sunmoon",
+      "name": "Olivia",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Relicanth",
+          "type1": "Water",
+          "type2": "Rock"
+        },
+        {
+          "name": "Carbink",
+          "type1": "Rock",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Probopass",
+          "type1": "Rock",
+          "type2": "Steel"
+        },
+        {
+          "name": "Golem",
+          "type1": "Rock",
+          "type2": "Electric"
+        },
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eacerola7sunmoon",
+      "name": "Acerola",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Sableye",
+          "type1": "Dark",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dhelmise",
+          "type1": "Ghost",
+          "type2": "Grass"
+        },
+        {
+          "name": "Froslass",
+          "type1": "Ice",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Palossand",
+          "type1": "Ghost",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ekahili7sunmoon",
+      "name": "Kahili",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Skarmory",
+          "type1": "Steel",
+          "type2": "Flying"
+        },
+        {
+          "name": "Crobat",
+          "type1": "Poison",
+          "type2": "Flying"
+        },
+        {
+          "name": "Oricorio",
+          "type1": "Fire",
+          "type2": "Flying"
+        },
+        {
+          "name": "Mandibuzz",
+          "type1": "Dark",
+          "type2": "Flying"
+        },
+        {
+          "name": "Toucannon",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "emolayne7ultrasunultramoon",
+      "name": "Molayne",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Klefki",
+          "type1": "Steel",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Bisharp",
+          "type1": "Dark",
+          "type2": "Steel"
+        },
+        {
+          "name": "Magnezone",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Metagross",
+          "type1": "Steel",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Dugtrio",
+          "type1": "Ground",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eolivia7ultrasunultramoon",
+      "name": "Olivia",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Armaldo",
+          "type1": "Water",
+          "type2": "Bug"
+        },
+        {
+          "name": "Cradily",
+          "type1": "Rock",
+          "type2": "Grass"
+        },
+        {
+          "name": "Probopass",
+          "type1": "Rock",
+          "type2": "Steel"
+        },
+        {
+          "name": "Gigalith",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eacerola7ultrasunultramoon",
+      "name": "Acerola",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Banette",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Drifblim",
+          "type1": "Ghost",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dhelmise",
+          "type1": "Ghost",
+          "type2": "Grass"
+        },
+        {
+          "name": "Froslass",
+          "type1": "Ice",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Palossand",
+          "type1": "Ghost",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ekahili7ultrasunultramoon",
+      "name": "Kahili",
+      "range": "elite-four",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Braviary",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Hawlucha",
+          "type1": "Fighting",
+          "type2": "Flying"
+        },
+        {
+          "name": "Oricorio",
+          "type1": "Fire",
+          "type2": "Flying"
+        },
+        {
+          "name": "Mandibuzz",
+          "type1": "Dark",
+          "type2": "Flying"
+        },
+        {
+          "name": "Toucannon",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "emarnie8swordshield",
+      "name": "Marnie",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Morpeko",
+          "type1": "Electric",
+          "type2": "Dark"
+        },
+        {
+          "name": "Scrafty",
+          "type1": "Dark",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Grimmsnarl",
+          "type1": "Dark",
+          "type2": "Fairy"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ehop8swordshieldgrookey",
+      "name": "Hop",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "grookey",
+      "pokemon": [
+        {
+          "name": "Dubwool",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Corviknight",
+          "type1": "Flying",
+          "type2": "Steel"
+        },
+        {
+          "name": "Pincurchin",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Inteleon",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ehop8swordshieldscorbunny",
+      "name": "Hop",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "scorbunny",
+      "pokemon": [
+        {
+          "name": "Dubwool",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Corviknight",
+          "type1": "Flying",
+          "type2": "Steel"
+        },
+        {
+          "name": "Pincurchin",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Rillaboom",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ehop8swordshieldsobble",
+      "name": "Hop",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "sobble",
+      "pokemon": [
+        {
+          "name": "Dubwool",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Corviknight",
+          "type1": "Flying",
+          "type2": "Steel"
+        },
+        {
+          "name": "Pincurchin",
+          "type1": "Electric",
+          "type2": ""
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Cinderace",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebede8swordshield",
+      "name": "Bede",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Mawile",
+          "type1": "Steel",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Gardevoir",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Rapidash",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Hatterene",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "enessa8swordshield",
+      "name": "Nessa",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Golisopod",
+          "type1": "Bug",
+          "type2": "Water"
+        },
+        {
+          "name": "Pelipper",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Barraskewda",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Seaking",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Drednaw",
+          "type1": "Water",
+          "type2": "Rock"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ebea8swordshield",
+      "name": "Bea",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hawlucha",
+          "type1": "Fighting",
+          "type2": "Flying"
+        },
+        {
+          "name": "Grapploct",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Sirfetch'd",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Falinks",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "Machamp",
+          "type1": "Fighting",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eallister8swordshield",
+      "name": "Allister",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Dusknoir",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Chandelure",
+          "type1": "Ghost",
+          "type2": "Fire"
+        },
+        {
+          "name": "Cursola",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Polteageist",
+          "type1": "Ghost",
+          "type2": ""
+        },
+        {
+          "name": "Gengar",
+          "type1": "Ghost",
+          "type2": "Poison"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "eraihan8swordshield",
+      "name": "Raihan",
+      "range": "galar-star",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Torkoal",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Goodra",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Turtonator",
+          "type1": "Fire",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Flygon",
+          "type1": "Ground",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Duraludon",
+          "type1": "Steel",
+          "type2": "Dragon"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "erika9scarletpurple",
+      "name": "Rika",
+      "range": "elite-four",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Pokémon League (Paldea)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Camerupt",
+          "type1": "Fire",
+          "type2": "Ground"
+        },
+        {
+          "name": "Donphan",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Dugtrio",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Clodsire",
+          "type1": "Poison",
+          "type2": "Ground"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "epoppy9scarletpurple",
+      "name": "Poppy",
+      "range": "elite-four",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Pokémon League (Paldea)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Copperajah",
+          "type1": "Steel",
+          "type2": ""
+        },
+        {
+          "name": "Corviknight",
+          "type1": "Flying",
+          "type2": "Steel"
+        },
+        {
+          "name": "Bronzong",
+          "type1": "Steel",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Magnezone",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Tinkaton",
+          "type1": "Fairy",
+          "type2": "Steel"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "elarry9scarletpurple",
+      "name": "Larry",
+      "range": "elite-four",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Pokémon League (Paldea)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Tropius",
+          "type1": "Grass",
+          "type2": "Flying"
+        },
+        {
+          "name": "Altaria",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Staraptor",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Oricorio",
+          "type1": "Electric",
+          "type2": "Flying"
+        },
+        {
+          "name": "Flamingo",
+          "type1": "Flying",
+          "type2": "Fighting"
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ehassel9scarletpurple",
+      "name": "Hassel",
+      "range": "elite-four",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Pokémon League (Paldea)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Noivern",
+          "type1": "Flying",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Dragalge",
+          "type1": "Poison",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Flapple",
+          "type1": "Grass",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Baxcalibur",
+          "type1": "",
+          "type2": ""
+        },
+        {
+          "name": "",
+          "type1": "",
+          "type2": ""
+        }
+      ]
+    }
+  ],
+  "champion": [
+    {
+      "id": "cblue1redbluebulbasaur",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Kanto Pokémon League",
+      "dependsOn": "bulbasaur",
+      "pokemon": [
+        {
+          "name": "Pidgeot",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Charizard",
+          "type1": "Fire",
+          "type2": "Flying"
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        }
+      ]
+    },
+    {
+      "id": "cblue1redbluecharmander",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Kanto Pokémon League",
+      "dependsOn": "charmander",
+      "pokemon": [
+        {
+          "name": "Pidgeot",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Blastoise",
+          "type1": "Water",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "cblue1redbluesquirtle",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Red-Blue",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "squirtle",
+      "pokemon": [
+        {
+          "name": "Pidgeot",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Rhydon",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Arcanine",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Venusaur",
+          "type1": "Grass",
+          "type2": "Poison"
+        }
+      ]
+    },
+    {
+      "id": "cblue1yellowvaporeon",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Kanto Pokémon League",
+      "dependsOn": "vaporeon",
+      "pokemon": [
+        {
+          "name": "Sandslash",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Vaporeon",
+          "type1": "Water",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "cblue1yellowjolteon",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Kanto Pokémon League",
+      "dependsOn": "jolteon",
+      "pokemon": [
+        {
+          "name": "Sandslash",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Cloyster",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Jolteon",
+          "type1": "Electric",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "cblue1yellowflareon",
+      "name": "Blue",
+      "range": "champion",
+      "generation": "I",
+      "game": "Yellow",
+      "region": "Kanto",
+      "location": "Victory Road (Kanto)",
+      "dependsOn": "flareon",
+      "pokemon": [
+        {
+          "name": "Sandslash",
+          "type1": "Ground",
+          "type2": ""
+        },
+        {
+          "name": "Alakazam",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Exeggutor",
+          "type1": "Grass",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Magneton",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Cloyster",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Flareon",
+          "type1": "Fire",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "clance2goldsilvercrystal",
+      "name": "Lance",
+      "range": "champion",
+      "generation": "II",
+      "game": "Gold-Silver-Crystal",
+      "region": "Johto",
+      "location": "Victory Road (Johto)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dragonite",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Aerodactyl",
+          "type1": "Rock",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dragonite",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Dragonite",
+          "type1": "Dragon",
+          "type2": "Flying"
+        },
+        {
+          "name": "Charizard",
+          "type1": "Fire",
+          "type2": "Flying"
+        }
+      ]
+    },
+    {
+      "id": "cstevenstone3rubysapphire",
+      "name": "Steven Stone",
+      "range": "champion",
+      "generation": "III",
+      "game": "Ruby-Sapphire",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Skarmory",
+          "type1": "Steel",
+          "type2": "Flying"
+        },
+        {
+          "name": "Claydol",
+          "type1": "Ground",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Aggron",
+          "type1": "Steel",
+          "type2": "Rock"
+        },
+        {
+          "name": "Cradily",
+          "type1": "Rock",
+          "type2": "Grass"
+        },
+        {
+          "name": "Armaldo",
+          "type1": "Rock",
+          "type2": "Bug"
+        },
+        {
+          "name": "Metagross",
+          "type1": "Steel",
+          "type2": "Psychic"
+        }
+      ]
+    },
+    {
+      "id": "cwallace3emerald",
+      "name": "Wallace",
+      "range": "champion",
+      "generation": "III",
+      "game": "Emerald",
+      "region": "Hoenn",
+      "location": "Ever Grande City",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Wailord",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Whiscash",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Tentacruel",
+          "type1": "Water",
+          "type2": "Poison"
+        },
+        {
+          "name": "Ludicolo",
+          "type1": "Water",
+          "type2": "Grass"
+        },
+        {
+          "name": "Gyarados",
+          "type1": "Water",
+          "type2": "Flying"
+        },
+        {
+          "name": "Milotic",
+          "type1": "Water",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "ccynthia4diamondpearl",
+      "name": "Cynthia",
+      "range": "champion",
+      "generation": "IV",
+      "game": "Diamond-Pearl",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Spiritomb",
+          "type1": "Ghost",
+          "type2": "Dark"
+        },
+        {
+          "name": "Roserade",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Gastrodon",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Lucario",
+          "type1": "Fighting",
+          "type2": "Steel"
+        },
+        {
+          "name": "Milotic",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Garchomp",
+          "type1": "Dragon",
+          "type2": "Ground"
+        }
+      ]
+    },
+    {
+      "id": "ccynthia4platinum",
+      "name": "Cynthia",
+      "range": "champion",
+      "generation": "IV",
+      "game": "Platinum",
+      "region": "Sinnoh",
+      "location": "Victory Road (Sinnoh)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Spiritomb",
+          "type1": "Ghost",
+          "type2": "Dark"
+        },
+        {
+          "name": "Roserade",
+          "type1": "Grass",
+          "type2": "Poison"
+        },
+        {
+          "name": "Togekiss",
+          "type1": "Fairy",
+          "type2": "Flying"
+        },
+        {
+          "name": "Lucario",
+          "type1": "Fighting",
+          "type2": "Steel"
+        },
+        {
+          "name": "Milotic",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Garchomp",
+          "type1": "Dragon",
+          "type2": "Ground"
+        }
+      ]
+    },
+    {
+      "id": "calder5blackwhite",
+      "name": "Alder",
+      "range": "champion",
+      "generation": "V",
+      "game": "Black-White",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Accelgor",
+          "type1": "Bug",
+          "type2": ""
+        },
+        {
+          "name": "Bouffalant",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Vanilluxe",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Escavalier",
+          "type1": "Bug",
+          "type2": "Steel"
+        },
+        {
+          "name": "Volcarona",
+          "type1": "Bug",
+          "type2": "Fire"
+        }
+      ]
+    },
+    {
+      "id": "ciris5black2white2",
+      "name": "Iris",
+      "range": "champion",
+      "generation": "V",
+      "game": "Black 2-White 2",
+      "region": "Unova",
+      "location": "Victory Road (Unova)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hydreigon",
+          "type1": "Dragon",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Druddigon",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Aggron",
+          "type1": "Steel",
+          "type2": "Rock"
+        },
+        {
+          "name": "Archeops",
+          "type1": "Rock",
+          "type2": "Flying"
+        },
+        {
+          "name": "Lapras",
+          "type1": "Water",
+          "type2": "Ice"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        }
+      ]
+    },
+    {
+      "id": "cdiantha6xy",
+      "name": "Diantha",
+      "range": "champion",
+      "generation": "VI",
+      "game": "X-Y",
+      "region": "Kalos",
+      "location": "Victory Road (Kalos)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Hawlucha",
+          "type1": "Fighting",
+          "type2": "Flying"
+        },
+        {
+          "name": "Aurorus",
+          "type1": "Rock",
+          "type2": "Ice"
+        },
+        {
+          "name": "Tyrantrum",
+          "type1": "Rock",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Gourgeist",
+          "type1": "Ghost",
+          "type2": "Plant"
+        },
+        {
+          "name": "Goodra",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Gardevoir",
+          "type1": "Psychic",
+          "type2": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": "ckukui7sunmoonrowlet",
+      "name": "Kukui",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "rowlet",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Magnezone",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Braviary",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Ice",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Incineroar",
+          "type1": "Fire",
+          "type2": "Dark"
+        }
+      ]
+    },
+    {
+      "id": "ckukui7sunmoonlitten",
+      "name": "Kukui",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "litten",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Magnezone",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Braviary",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Ice",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Primarina",
+          "type1": "Water",
+          "type2": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": "ckukui7sunmoonpopplio",
+      "name": "Kukui",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Sun-Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "popplio",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Magnezone",
+          "type1": "Electric",
+          "type2": "Steel"
+        },
+        {
+          "name": "Braviary",
+          "type1": "Normal",
+          "type2": "Flying"
+        },
+        {
+          "name": "Snorlax",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Ninetales",
+          "type1": "Ice",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Decidueye",
+          "type1": "Grass",
+          "type2": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": "chau7ultrasunultramoonrowlet",
+      "name": "Hau",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "rowlet",
+      "pokemon": [
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Flareon",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Tauros",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Noivern",
+          "type1": "Flying",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Crabominable",
+          "type1": "Fighting",
+          "type2": "Ice"
+        },
+        {
+          "name": "Primarina",
+          "type1": "Water",
+          "type2": "Fairy"
+        }
+      ]
+    },
+    {
+      "id": "chau7ultrasunultramoonlitten",
+      "name": "Hau",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "litten",
+      "pokemon": [
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Vaporeon",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Tauros",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Noivern",
+          "type1": "Flying",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Crabominable",
+          "type1": "Fighting",
+          "type2": "Ice"
+        },
+        {
+          "name": "Decidueye",
+          "type1": "Grass",
+          "type2": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": "chau7ultrasunultramoonpopplio",
+      "name": "Hau",
+      "range": "champion",
+      "generation": "VII",
+      "game": "Ultra Sun-Ultra Moon",
+      "region": "Alola",
+      "location": "Mount Lanakila",
+      "dependsOn": "popplio",
+      "pokemon": [
+        {
+          "name": "Raichu",
+          "type1": "Electric",
+          "type2": "Fairy"
+        },
+        {
+          "name": "Leafeon",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Tauros",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Noivern",
+          "type1": "Flying",
+          "type2": "Dragon"
+        },
+        {
+          "name": "Crabominable",
+          "type1": "Fighting",
+          "type2": "Ice"
+        },
+        {
+          "name": "Incineroar",
+          "type1": "Fire",
+          "type2": "Dark"
+        }
+      ]
+    },
+    {
+      "id": "cleon8swordshieldgrookey",
+      "name": "Leon",
+      "range": "champion",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "grookey",
+      "pokemon": [
+        {
+          "name": "Aegislash",
+          "type1": "Steel",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Dragapult",
+          "type1": "Dragon",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Seismitoad",
+          "type1": "Water",
+          "type2": "Ground"
+        },
+        {
+          "name": "Cinderace",
+          "type1": "Fire",
+          "type2": ""
+        },
+        {
+          "name": "Charizard",
+          "type1": "Fire",
+          "type2": "Flying"
+        }
+      ]
+    },
+    {
+      "id": "cleon8swordshieldscorbunny",
+      "name": "Leon",
+      "range": "champion",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "scorbunny",
+      "pokemon": [
+        {
+          "name": "Aegislash",
+          "type1": "Steel",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Dragapult",
+          "type1": "Dragon",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Mr. Rime",
+          "type1": "Ice",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Inteleon",
+          "type1": "Water",
+          "type2": ""
+        },
+        {
+          "name": "Charizard",
+          "type1": "Fire",
+          "type2": "Flying"
+        }
+      ]
+    },
+    {
+      "id": "cleon8swordshieldsobble",
+      "name": "Leon",
+      "range": "champion",
+      "generation": "VIII",
+      "game": "Sword-Shield",
+      "region": "Galar",
+      "location": "Wyndon Stadium",
+      "dependsOn": "sobble",
+      "pokemon": [
+        {
+          "name": "Aegislash",
+          "type1": "Steel",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Dragapult",
+          "type1": "Dragon",
+          "type2": "Ghost"
+        },
+        {
+          "name": "Haxorus",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Rhyperior",
+          "type1": "Ground",
+          "type2": "Rock"
+        },
+        {
+          "name": "Rillaboom",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Charizard",
+          "type1": "Fire",
+          "type2": "Flying"
+        }
+      ]
+    },
+    {
+      "id": "cnemona9scarletpurplespirigatito",
+      "name": "Nemona",
+      "range": "champion",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Mesagoza",
+      "dependsOn": "spirigatito",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Pawmot",
+          "type1": "Electric",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Dudunsparce",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Orthworm",
+          "type1": "Steel",
+          "type2": ""
+        },
+        {
+          "name": "Goodra",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Quaquaval",
+          "type1": "Water",
+          "type2": "Fighting"
+        }
+      ]
+    },
+    {
+      "id": "cnemona9scarletpurplefuecoco",
+      "name": "Nemona",
+      "range": "champion",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Mesagoza",
+      "dependsOn": "fuecoco",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Pawmot",
+          "type1": "Electric",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Dudunsparce",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Orthworm",
+          "type1": "Steel",
+          "type2": ""
+        },
+        {
+          "name": "Goodra",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Meowscarada",
+          "type1": "Grass",
+          "type2": "Dark"
+        }
+      ]
+    },
+    {
+      "id": "cnemona9scarletpurplequaxly",
+      "name": "Nemona",
+      "range": "champion",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Mesagoza",
+      "dependsOn": "quaxly",
+      "pokemon": [
+        {
+          "name": "Lycanroc",
+          "type1": "Rock",
+          "type2": ""
+        },
+        {
+          "name": "Pawmot",
+          "type1": "Electric",
+          "type2": "Fighting"
+        },
+        {
+          "name": "Dudunsparce",
+          "type1": "Normal",
+          "type2": ""
+        },
+        {
+          "name": "Orthworm",
+          "type1": "Steel",
+          "type2": ""
+        },
+        {
+          "name": "Goodra",
+          "type1": "Dragon",
+          "type2": ""
+        },
+        {
+          "name": "Skeledirge",
+          "type1": "Fire",
+          "type2": "Ghost"
+        }
+      ]
+    },
+    {
+      "id": "cgeeta9scarletpurple",
+      "name": "Geeta",
+      "range": "super-champion",
+      "generation": "IX",
+      "game": "Scarlet-Purple",
+      "region": "Paldea",
+      "location": "Pokémon League (Paldea)",
+      "dependsOn": "",
+      "pokemon": [
+        {
+          "name": "Espathra",
+          "type1": "Psychic",
+          "type2": ""
+        },
+        {
+          "name": "Avalugg",
+          "type1": "Ice",
+          "type2": ""
+        },
+        {
+          "name": "Kingambit",
+          "type1": "Dark",
+          "type2": "Steel"
+        },
+        {
+          "name": "Veluza",
+          "type1": "Water",
+          "type2": "Psychic"
+        },
+        {
+          "name": "Gogoat",
+          "type1": "Grass",
+          "type2": ""
+        },
+        {
+          "name": "Glimmora",
+          "type1": "Rock",
+          "type2": "Poison"
+        }
+      ]
+    }
+  ]
+}
